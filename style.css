@@ -1,0 +1,11 @@
+h1,p,h3 {
+    text-align: center;
+}
+
+form {
+    border-radius: 1%;
+}
+
+#title,#description {
+    color: lightgray;
+}
